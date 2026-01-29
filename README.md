@@ -9,11 +9,11 @@ This repository packages the paper + a deterministic reproduction notebook for t
 
 - `paper/`
   -  Consciousness Collapse: Loss of Consciousness as Impedance Catastrophe.pdf
-    
+  - Consciousness_Collapse_Clarification_Addendum.pdf
 
 - `data/`
   - `Data.pdf` — literature compilation / provenance (180-point source pool).
-  - `constructed_eta_R_dataset.csv` — **placeholder** header file for the condensed analysis dataset (43 anchor points).
+  - `constructed_eta_R_dataset.csv` - condensed analysis dataset (43 anchor points).
 
 - `notebooks/`
   - `Consciousness_Collapse_Reproduction.ipynb` — clean, GitHub-ready notebook that:
