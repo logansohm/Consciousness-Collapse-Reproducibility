@@ -1,7 +1,11 @@
 # Consciousness-Collapse-Reproducibility
+
 Data repo for Consciousness Collapse: Loss of Consciousness as Impedance Catastrophe paper
+
 [README.md](https://github.com/user-attachments/files/24947968/README.md)
 # Consciousness Collapse — Repro Pack
+
+https://doi.org/10.5281/zenodo.18422479
 
 This repository packages the paper + a deterministic reproduction notebook for the core **collapse fit**.
 
