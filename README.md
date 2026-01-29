@@ -8,7 +8,7 @@ This repository packages the paper + a deterministic reproduction notebook for t
 ## What’s included
 
 - `paper/`
-  -  Consciousness Collapse: Loss of Consciousness as Impedance Catastrophe
+  -  Consciousness Collapse: Loss of Consciousness as Impedance Catastrophe.pdf
     
 
 - `data/`
@@ -20,7 +20,7 @@ This repository packages the paper + a deterministic reproduction notebook for t
     1) domain-normalizes η (z-score within each domain),
     2) fits the pooled logistic collapse,
     3) bootstraps a 95% CI for k.
-
+ - RefactoredNetworkCollapse (1).ipynb
 ## Quick start (local)
 
 ```bash
