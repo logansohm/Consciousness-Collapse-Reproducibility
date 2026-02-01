@@ -1,0 +1,18 @@
+{
+  "paper": "Paper #2 – Recovery Boundary / Survivability",
+  "collapse_parameters": {
+    "k_hat": 0.4019788043525801,
+    "eta0_hat": 4.438879388110471
+  },
+  "auc": {
+    "integrated_load_L": 0.9999799761666323,
+    "peak_eta": 0.7807980949324933,
+    "duration": 0.8360443517897177,
+    "mean_eta": 0.8205313874839528,
+    "mean_eta_x_duration": 0.9392356752624811
+  },
+  "cohort": {
+    "n_samples": 4000,
+    "chronic_rate": 0.51725
+  }
+}
